@@ -16,7 +16,7 @@ Latest Xray Core v1.7.3
 
  PLEASE MAKE SURE YOUR DOMAIN SETTINGS IN YOUR CLOUDFLARE AS BELOW (SSL/TLS SETTINGS) <br>
   1. Your SSL/TLS encryption mode is Full
-  2. Enable SSL/TLS Recommender ✅
+  2. Enable SSL/TLS Recommender -
   3. Edge Certificates > Disable Always Use HTTPS (off)
   4. GRPC : ON
   5. UNDER ATTACK MODE : OFF
@@ -37,30 +37,30 @@ No Permission IP
 <br>
 ### Service & Port:
   Service Port
- ✅ OpenSSH                 : 22
- ✅ Stunnel4                : 447,777
- ✅ Dropbear                : 109,143
- ✅ SSH WS                  : 80 ON
- ✅ SSH WS TLS              : 443
- ✅ BadVPN                  : 7100-7900
- ✅ Shadowsocks Ws + gRPC   : 443
- ✅ XRAY  Vmess TLS + gRPC  : 443
- ✅ XRAY  Vless TLS + gRPC  : 443
- ✅ Trojan WS + gRPC        : 443
- ✅  XRAY  Vmess None TLS    : 80
- ✅  XRAY  Vless None TLS    : 80
- ✅  Nginx                   : 81
+ - OpenSSH                 : 22
+ - Stunnel4                : 447,777
+ - Dropbear                : 109,143
+ - SSH WS                  : 80 ON
+ - SSH WS TLS              : 443
+ - BadVPN                  : 7100-7900
+ - Shadowsocks Ws + gRPC   : 443
+ - XRAY  Vmess TLS + gRPC  : 443
+ - XRAY  Vless TLS + gRPC  : 443
+ - Trojan WS + gRPC        : 443
+ -  XRAY  Vmess None TLS    : 80
+ -  XRAY  Vless None TLS    : 80
+ -  Nginx                   : 81
 
 <br>
 [ OTHER SERVICES ] <br>
 <br>
-✅ MULTIPATH (CUSTOM PATH) 
-✅ BANDWITH MONITOR <br>
-✅ CHECK LOGIN USER <br>
-✅ CHECK CREATED CONFIG <br>
-✅ AUTOMATIC CLEAR LOG <br>
-✅ AUTOMATIC VPS REBOOT <br>
-✅ BACKUP & RESTORE <br>
+- MULTIPATH (CUSTOM PATH) 
+- BANDWITH MONITOR <br>
+- CHECK LOGIN USER <br>
+- CHECK CREATED CONFIG <br>
+- AUTOMATIC CLEAR LOG <br>
+- AUTOMATIC VPS REBOOT <br>
+- BACKUP & RESTORE <br>
 <br>
 <br>
 ♦️ For Debian 10 Only For First Time Installation <br>
