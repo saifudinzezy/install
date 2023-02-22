@@ -70,7 +70,7 @@ No Permission IP
 apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
   ```
   
-♦️ For Ubuntu 18.04 Only For First Time Installation <br>
+♦️ For Ubuntu 18 - 20 Only For First Time Installation <br>
   
   ```html
 apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
@@ -79,7 +79,7 @@ apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && re
 ♦️ Installation Link (Recommended Debian 10) <br>
 
   ```html
-apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://install.yudhy.net/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
+apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/bakulssh/install/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 ```
 
 
