@@ -36,31 +36,31 @@ No Permission IP
 [ SSH & XRAY SERVICES ] <br>
 <br>
 ### Service & Port:
-  Service Port
- - OpenSSH                 : 22
- - Stunnel4                : 447,777
- - Dropbear                : 109,143
- - SSH WS                  : 80 ON
- - SSH WS TLS              : 443
- - BadVPN                  : 7100-7900
- - Shadowsocks Ws + gRPC   : 443
- - XRAY  Vmess TLS + gRPC  : 443
- - XRAY  Vless TLS + gRPC  : 443
- - Trojan WS + gRPC        : 443
- -  XRAY  Vmess None TLS    : 80
- -  XRAY  Vless None TLS    : 80
- -  Nginx                   : 81
+  Service Port<br>
+ ✅ OpenSSH                 : 22<br>
+ ✅ Stunnel4                : 447,777<br>
+ ✅ Dropbear                : 109,143<br>
+ ✅ SSH WS                  : 80 ON<br>
+ ✅ SSH WS TLS              : 443<br>
+ ✅ BadVPN                  : 7100-7900<br>
+ ✅ Shadowsocks Ws + gRPC   : 443<br>
+ ✅ XRAY  Vmess TLS + gRPC  : 443<br>
+ ✅ XRAY  Vless TLS + gRPC  : 443<br>
+ ✅ Trojan WS + gRPC        : 443<br>
+ ✅  XRAY  Vmess None TLS    : 80<br>
+ ✅  XRAY  Vless None TLS    : 80<br>
+ ✅  Nginx                   : 81<br>
 
 <br>
 [ OTHER SERVICES ] <br>
 <br>
-- MULTIPATH (CUSTOM PATH) 
-- BANDWITH MONITOR <br>
-- CHECK LOGIN USER <br>
-- CHECK CREATED CONFIG <br>
-- AUTOMATIC CLEAR LOG <br>
-- AUTOMATIC VPS REBOOT <br>
-- BACKUP & RESTORE <br>
+✅ MULTIPATH (CUSTOM PATH) <br>
+✅ BANDWITH MONITOR <br>
+✅ CHECK LOGIN USER <br>
+✅ CHECK CREATED CONFIG <br>
+✅ AUTOMATIC CLEAR LOG <br>
+✅ AUTOMATIC VPS REBOOT <br>
+✅ BACKUP & RESTORE <br>
 <br>
 <br>
 ♦️ For Debian 10 Only For First Time Installation <br>
